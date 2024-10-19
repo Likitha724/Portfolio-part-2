@@ -1,0 +1,1 @@
+This repository contains the second part of my Data Science portfolio. It extends the foundational work covered in Part 1 and focuses on more advanced data science techniques. The projects and notebooks in this part showcase deeper model development, advanced analytics, and performance optimization techniques applied to complex datasets.
